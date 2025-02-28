@@ -3,6 +3,8 @@
 
 Welcome to **Eloquent JavaScript**, a repository dedicated to exploring the art and science of JavaScript programming. Whether you're a beginner taking your first steps into the world of coding or an experienced developer seeking to deepen your understanding, this repository is your guide to mastering JavaScript in an elegant and expressive way.
 
+get your free E-book here! You can practice code https://eloquentjavascript.net/
+<a href="https://eloquentjavascript.net/">Get your free E-book📚 here! You can practice code</a>
 ---
 
 ## **What’s Inside?** 📚
