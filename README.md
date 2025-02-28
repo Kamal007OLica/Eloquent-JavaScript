@@ -1,5 +1,5 @@
 
-# **Eloquent JavaScript: A Journey Through Code** 🚀
+# **Eloquent JavaScript: Sharing my Learning in the book** 🚀
 
 Welcome to **Eloquent JavaScript**, a repository dedicated to exploring the art and science of JavaScript programming. Whether you're a beginner taking your first steps into the world of coding or an experienced developer seeking to deepen your understanding, this repository is your guide to mastering JavaScript in an elegant and expressive way.
 
