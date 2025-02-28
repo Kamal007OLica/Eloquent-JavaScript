@@ -1,8 +1,3 @@
-# Eloquent-JavaScript
-Welcome to Eloquent JavaScript, a repository dedicated to exploring the art and science of JavaScript programming
-Here’s a polished and engaging description for your GitHub repository, inspired by the style of *Eloquent JavaScript*. Feel free to customize it further to match your project’s tone and goals:
-
----
 
 # **Eloquent JavaScript: A Journey Through Code** 🚀
 
