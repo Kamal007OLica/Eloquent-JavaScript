@@ -5,6 +5,9 @@ Welcome to **Eloquent JavaScript**, a repository dedicated to exploring the art 
 
 <h3> <a href="https://eloquentjavascript.net/">Get your free E-book📚 here! You can practice code</a> </h3>
 
+![loom-video2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/242aa9f7-77b3-49df-9290-e8c40d9e9bb4)
+
+
 ## **What’s Inside?** 
 
 This repository is a curated collection of projects, exercises, and examples inspired by the principles of *Eloquent JavaScript*. Here’s what you’ll find:
