@@ -3,7 +3,7 @@
 
 Welcome to **Eloquent JavaScript**, a repository dedicated to exploring the art and science of JavaScript programming. Whether you're a beginner taking your first steps into the world of coding or an experienced developer seeking to deepen your understanding, this repository is your guide to mastering JavaScript in an elegant and expressive way.
 
-<h3> <a href="https://eloquentjavascript.net/">Get your free E-book📚 here! You can practice code</a> </h3>
+<h2> <a href="https://eloquentjavascript.net/">Get your free E-book📚 here! You can practice code</a> </h2>
 
 ![loom-video2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/242aa9f7-77b3-49df-9290-e8c40d9e9bb4)
 
